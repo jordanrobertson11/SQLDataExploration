@@ -6,7 +6,7 @@ This project utilises MySQL to uncover trends and patterns within a global COVID
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>SQL</b> 
+- <b>MySQL</b> 
 
 <h2>Environments Used </h2>
 
